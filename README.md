@@ -1,8 +1,8 @@
-<div align="center">
+
 # 🌸 Hello, I'm Srinjana Sahana
 ### 🚀 Aspiring Software Engineer
 💻 Full Stack Developer | 🎨 UI/UX Enthusiast | 🤖 Exploring AI/ML
-</div>
+
 ---
 
 ## ✨ About Me
