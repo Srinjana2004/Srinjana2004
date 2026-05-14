@@ -17,27 +17,27 @@
 
 🛠️ Skills & Technologies
 
-💻 Programming
+💻 Programming:
 🟡 Java • 🔵 C • 🐍 Python • ✨ JavaScript
 
-🎨 Frontend
+🎨 Frontend:
 🧡 HTML5 • 💙 CSS3 • ⚛️ React.js • 📱 Responsive Design
 
-⚙️ Backend
+⚙️ Backend:
 🟢 Node.js • 🚂 Express.js
 
-🗄️ Database
+🗄️ Database:
 🍃 MongoDB • 🗃️ SQL
 
-🎨 UI/UX
+🎨 UI/UX:
 🖌️ Figma • ✨ UI/UX Basics
 
-🔧 Tools
+🔧 Tools:
 🐙 GitHub • 🔨 Git
 
 ---
 
-🌟 Soft Skills
+🌟 Soft Skills:
 
 🤝 Teamwork • 🗣️ Communication • 🔄 Adaptability
 ⏳ Time Management • 🧠 Critical Thinking
