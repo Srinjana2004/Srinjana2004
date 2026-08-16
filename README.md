@@ -9,7 +9,7 @@
 
 - 🌱 Passionate about creating modern and responsive web applications
 - 🧠 Strong foundation in Java, Python, and software development principles
-- 💡 Interested in AI/ML, Full Stack Development, and problem-solving
+- 💡 Interested in Full Stack Development, and problem-solving
 - 📚 Continuously learning new technologies and building projects
 
 ---
